@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm tamizhveandan</h1>
 
 <h3 align="center">Transforming ideas into reality through code</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <h4>I'm a fullstack web developer and competitive programmer with a passion for solving complex problems. With
 expertise in multiple programming languages and frameworks, I have the skills needed to build and maintain web
 applications efficiently. My problem-solving and critical thinking abilities, combined with my commitment to staying
