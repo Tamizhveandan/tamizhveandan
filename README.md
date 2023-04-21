@@ -41,6 +41,7 @@ ferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ico
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamizhveandan&show_icons=true&locale=en" alt="tamizhveandan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamizhveandan&" alt="tamizhveandan" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/tamizh007?theme=unicorn)
 
 
 
