@@ -14,7 +14,7 @@ up-to-date with the latest trends, makes me a valuable addition to any developme
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [tamizhveandan.web.app](tamizhveandan.web.app)
+- 👨‍💻 All of my projects are available at [tamizhveandan.web.app](tamizhveandand.web.app)
 
 - 💬 Ask me about **python,javascript, react**
 
